@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27e4a43f-1764-4632-8b3c-8ba7dcd386e6" name="Default Changelist" comment="" />
+    <list default="true" id="27e4a43f-1764-4632-8b3c-8ba7dcd386e6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,17 +25,27 @@
   </component>
   <component name="RunManager" selected="Python.mail">
     <configuration name="mail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mail-parser" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Python\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mail.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -92,21 +105,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="414" key="GridCell.Tab.0.bottom" timestamp="1604392647855">
+    <state width="1899" height="256" key="GridCell.Tab.0.bottom" timestamp="1604413231324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="414" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604392647855" />
-    <state width="1899" height="414" key="GridCell.Tab.0.center" timestamp="1604392647855">
+    <state width="1899" height="256" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604413231324" />
+    <state width="1899" height="256" key="GridCell.Tab.0.center" timestamp="1604413231324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="414" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604392647855" />
-    <state width="1899" height="414" key="GridCell.Tab.0.left" timestamp="1604392647855">
+    <state width="1899" height="256" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604413231324" />
+    <state width="1899" height="256" key="GridCell.Tab.0.left" timestamp="1604413231324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="414" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604392647855" />
-    <state width="1899" height="414" key="GridCell.Tab.0.right" timestamp="1604392647855">
+    <state width="1899" height="256" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604413231324" />
+    <state width="1899" height="256" key="GridCell.Tab.0.right" timestamp="1604413231324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="414" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604392647855" />
+    <state width="1899" height="256" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604413231324" />
   </component>
 </project>
