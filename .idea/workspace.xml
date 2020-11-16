@@ -20,10 +20,74 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../xml_to_csv" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.mail">
+    <configuration name="add_http" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../scrapping/Randy/Future_Years/Ford_" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../scrapping/Randy/Future_Years/Ford_/add_http.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gallery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../scrapping/Randy/Future_Years/Ford_" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../scrapping/Randy/Future_Years/Ford_/gallery.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="mail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,6 +152,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.mail" />
+        <item itemvalue="Python.gallery" />
+        <item itemvalue="Python.add_http" />
         <item itemvalue="Python tests.Nosetests in test_mail_parser.py" />
         <item itemvalue="Python tests.Nosetests in test_main.py" />
       </list>
@@ -105,21 +171,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="256" key="GridCell.Tab.0.bottom" timestamp="1604413231324">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1604844060554">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="256" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604413231324" />
-    <state width="1899" height="256" key="GridCell.Tab.0.center" timestamp="1604413231324">
+    <state x="740" y="275" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604844060554" />
+    <state width="1899" height="409" key="GridCell.Tab.0.bottom" timestamp="1604713575069">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="256" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604413231324" />
-    <state width="1899" height="256" key="GridCell.Tab.0.left" timestamp="1604413231324">
+    <state width="1899" height="409" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604713575069" />
+    <state width="1899" height="409" key="GridCell.Tab.0.center" timestamp="1604713575069">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="256" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604413231324" />
-    <state width="1899" height="256" key="GridCell.Tab.0.right" timestamp="1604413231324">
+    <state width="1899" height="409" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604713575069" />
+    <state width="1899" height="409" key="GridCell.Tab.0.left" timestamp="1604713575069">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="256" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604413231324" />
+    <state width="1899" height="409" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604713575069" />
+    <state width="1899" height="409" key="GridCell.Tab.0.right" timestamp="1604713575069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="409" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604713575069" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1604506301693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604506301693" />
   </component>
 </project>
